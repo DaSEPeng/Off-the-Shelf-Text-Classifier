@@ -14,3 +14,4 @@
 
 ## 致谢：
 - [Sentiment Analysis with PyTorch and TorchText@Ben Trevett](https://github.com/bentrevett/pytorch-sentiment-analysis)
+- [Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
