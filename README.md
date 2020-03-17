@@ -13,6 +13,10 @@
 
 本repo将一直维护并跟进SOTA模型，欢迎提出意见或建议！
 
+**TODO**
+- 词典的构建可以采取更简便的方式
+
+
 ## 致谢：
 - [Sentiment Analysis with PyTorch and TorchText@Ben Trevett](https://github.com/bentrevett/pytorch-sentiment-analysis)
 - [Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
